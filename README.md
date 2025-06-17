@@ -29,5 +29,5 @@ cd Password-Generator
 Just open the `index.html` file in any modern web browser
 
 ## 🧑‍💻 Author
-Built with 💻 and ☕ by @JayamPandya
+Built with 💻 and ☕ by @JayamPandya https://github.com/JayamPandya
 
